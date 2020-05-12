@@ -1,5 +1,5 @@
 # DISdeeplearn
-This is the final report of my honors Directed Independant Study course for Deep Learning Applications. It is a summary of what I have learned on deep learning and applying it practically. I had spent a semester learning independantly through online resources. Topics include:
+This is the final report of my honors Directed Independant Study course for Deep Learning Applications. It is a summary of what I have learned on deep learning and applying it practically. I had spent a semester learning independantly through online resources. Topics include but are not limited to:
 - Machine Learning & Deep Learning
 - ANNs
 - CNNs
